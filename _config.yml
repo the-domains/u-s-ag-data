@@ -1,0 +1,14 @@
+layout_spectrum: 0.2319149
+typography_spectrum: 0.8404256
+color:
+  saturation: 0.01733619
+  lightness: 0.02136521
+  brandStrength: 0.8749405
+  rhythmicContrast: 0.471748
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: U.S. Ag Data
